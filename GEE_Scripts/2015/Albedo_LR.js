@@ -1,4 +1,4 @@
-// 1. Define AOI please
+// 1. Define AOI 
 
 
 // 2. List of years
